@@ -1,0 +1,22 @@
+{
+  "name": "mernbook",
+  "version": "1.0.0",
+  "description": "Learning MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtiJosiah27/Learning-MERN.git"
+  },
+  "author": "Etieno Josiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtiJosiah27/Learning-MERN/issues"
+  },
+  "homepage": "https://github.com/EtiJosiah27/Learning-MERN#readme",
+  "devDependencies": {
+    "mongodb": "^6.9.0"
+  }
+}
